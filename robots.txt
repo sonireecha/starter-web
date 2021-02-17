@@ -1,3 +1,5 @@
 # robotstxt.org/
 
-Hi this is not a User-agent and you don't need to do it alone*
+
+Hi this is not a User-agent and you don't need to do it alone
+
