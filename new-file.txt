@@ -1,1 +1,3 @@
-Hi this is my new file created from local repository
+Hello this file from feature branch
+branch name - feature
+Want to merge into master
