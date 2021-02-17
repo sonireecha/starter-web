@@ -6,10 +6,10 @@
     <!-- Most restrictive policy: -->
     <site-control not-permitted-domain-policies="none"/>
 
-    <!-- Least restrictive policys: -->
+    <hdfvbfvjfgnb>
     <!--
-    <site-control permitted-cross-domain-policies="all"/>
-    <allow-access-from domain="*" to-ports="*" secure="false"/>
+    <all policies/>
+    <notsecure="false"/>
     <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
     -->
 </cross-domain-policy>

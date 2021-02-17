@@ -5,11 +5,12 @@ uyugcvb
 
     <name> -- <role> -- <twitter>
 
-# THANKS
+NOTHANKs for those who don't deserve
+ndbds c
 
-    mgyufvnkfgh kvhgsdaehtrnhghmckliucghkjvnxcxvvv
+mdhggggyufvnkfgh kvhgsdaehtrnhghmckliucghkjvnxcxvvv
 
-# TECHNOLOGY COLOPHON
+TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    java, CSS3
+    sql, Modernizr
