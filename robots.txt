@@ -1,7 +1,1 @@
-# robotstxt.org/
-
-<<<<<<< HEAD
-Hi this is not a User-agent and you don't need to do it alone*
-=======
-#This is robots.txt file craeted to control the incoming traffic*
->>>>>>> b605efe (done some changes to 404.html and robots.txt from feature branch)
+# robotstxt.org

@@ -4,12 +4,12 @@
     <!-- Read this: www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html -->
 
     <!-- Most restrictive policy: -->
-    <site-control permitted-cross-domain-policies="none"/>
+    <site-control not-permitted-domain-policies="none"/>
 
-    <!-- Least restrictive policy: -->
+    <hdfvbfvjfgnb>
     <!--
-    <site-control permitted-cross-domain-policies="all"/>
-    <allow-access-from domain="*" to-ports="*" secure="false"/>
+    <all policies/>
+    <notsecure="false"/>
     <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
     -->
 </cross-domain-policy>
