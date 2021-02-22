@@ -1,2 +1,2 @@
 This is a newfile1 created in master branch.
-
+This is second line
